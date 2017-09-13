@@ -131,13 +131,12 @@ The following are the corrections needed to make the provided code to run prober
   
     * Becouse in the excersices you have study drills where you pretty much have to break, modify and 'trash' the code, you learn better how the code behaves if you tweak it there and how it reacts when you comment out another line here or there. At least for me taking time to actually play with the code has helped alot! In general internalizing that you cannot break the code but you can always access the original script might also take the 'fear' of the code away... 
 
+![Text shown if image does not load](https://commons.wikimedia.org/wiki/File%3AGlacier_bay_(3733730328).jpg)<br/>
+*Figure 1:Having lived both in Seattle and B.C. and still not seeing any orcas pisses me off. Regardless, beautiful animals!*
+
+Having lived both in Seattle and B.C. and still not seeing any orcas pisses me off. Regardless, beautiful animals!
 
 This is some text.
 You can use *italics* or **bold** text easily.
 You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 You can see an example of how to display an image with a caption below.
-
-![Text shown if image does not load](Images/green-tree-python.jpg)<br/>
-*Figure 1: A green tree python*
-
-Here is a bit more text beneath the image. Have fun!
