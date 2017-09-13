@@ -131,7 +131,7 @@ The following are the corrections needed to make the provided code to run prober
   
     * Becouse in the excersices you have study drills where you pretty much have to break, modify and 'trash' the code, you learn better how the code behaves if you tweak it there and how it reacts when you comment out another line here or there. At least for me taking time to actually play with the code has helped alot! In general internalizing that you cannot break the code but you can always access the original script might also take the 'fear' of the code away... 
 
-![Text shown if image does not load](https://commons.wikimedia.org/wiki/File%3AGlacier_bay_(3733730328).jpg)<br/>
+![Text shown if image does not load](https://github.com/Kajomi/Python-for-GeoPeople---course/blob/master/orcas.jpg)<br/>
 *Figure 1:Having lived both in Seattle and B.C. and still not seeing any orcas pisses me off. Regardless, beautiful animals!*
 
 Having lived both in Seattle and B.C. and still not seeing any orcas pisses me off. Regardless, beautiful animals!
