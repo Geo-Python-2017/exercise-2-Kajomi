@@ -90,25 +90,43 @@ The following are the corrections needed to make the provided code to run prober
 
 ## Problem 2 - Creating one's own script
 
-1. The hardest parts of the code dealt with index and how to use it:
+**1. The hardest parts of the code dealt with index and how to use it:**
 
    * I haven't been playing with Python in awhile so getting up and going was a bit slow. I noticed I still have problems understanding the 'fetching' of items in a list with an index and then assigning them to a new variable in order to use it in an print statement. Somehow it seems abit abstract...? Maybe it is becouse the whole idea of methods (the dot notation in lists or other objects), feels complex especially when you have many variables and/ or combine many methods together.
 
-   * In general the idea that index starts with a zero is not that hard to comprehend, even though at times when you get to more complex pieces of code it can cause a minor error/ miscalculation, but usually that is becouse I am so lost with the code to beging with :)
+   * In general the idea that index starts with a zero is not that hard to comprehend, even though at times when you get to more complex pieces of code it can cause a minor error/ miscalculation, but usually that is becouse I am so lost with the code to beging with :smile:
    
-2. What influences or ideas you were able to take from other of this weeks resources?
+**2. What influences or ideas you were able to take from other of this weeks resources?**
 
-   * I added an extra print statement printing out the month and its index, as it clarified/ simplified the code for me abit. Fisrt I got the error of not being able to print the line as I was lumbing string and integer variables together. So instead of creating a whole new variable such as MonthIndexStr, I just used the str() method to convert the variable within the print statement.
+   * I added an extra print statement printing out the month and its index, as it clarified/ simplified the code for me abit. First I got the error of not being able to print the line as I was lumbing string and integer variables together. So instead of creating a whole new variable such as MonthIndexStr, I just used the str() method to convert the variable within the print statement.
 
    * Also, I like to keep my code 'tidy' (i.e. readable) so adding comments (or just comment something like #---------------------) or adding empty line to identify 'blocks' is normal to me. The docstrings was a newer concept to me that I have to integrate to my style, as I do feel it makes the script look more professional and in a way more 'thought out'.
    
- 3. Other comments with respect to creating one's own script:
+ **3. Other comments with respect to creating one's own script:**
  
     * The excercise felt in general okay and did not cause any major difficulties, but usually when starting from square one on your own, it can feel quite intimidating. What I often do is to write down what variables I need, in what order I should introduce them and what 'methods' (not as in append., .reverse(), etc. but what kind of structure the code should take - lists, creating functions, if-loops...) I need to implement in order to get the final, correct output. Writing stuff down seems to arrange the question at hand in my head and then I can move on to my computer and start playing with the actual code.
 
-    * I also try not to think that certain 'methods' should always be used on their own, but I think form a earning/ understaning perspective, it is important to make your brain understand that different methods can and should be used mixed together. When I started, it was difficult to mix i.e. if -loops with for- statements as I learned them separately (if that makes any sense). So I find it to be important to make that super clear from the very beginning, but at the same time I find I start loosing motivation when the taks and excercises get way too complicated way too fast - so finding the middle ground is important... 
+    * I also try not to think that certain 'methods' should always be used on their own, but I think form a learning/ understaning perspective, it is important to make your brain understand that different methods can and should be used mixed together. When I started, it was difficult to mix i.e. if -loops with for- statements as I learned them separately (if that makes any sense). So I find it to be important to make that super clear from the very beginning, but at the same time I find I start loosing motivation when the taks and excercises get way too complicated way too fast - so finding the middle ground is important... 
 
-    * These comment may not relate to the original question, but just wanted to point these issues out if there are any students in the course who have as complicated way of thinking as I have :) 
+    * These comment may not relate to the original question, but just wanted to point these issues out if there are any students in the course who have as complicated way of thinking as I have :smiley: 
+    
+ ## Problem 3 - Comments and thoughts on this weeks lecture and excersice
+ 
+:+1 **What I liked about this weeks topics:**
+
+- As I have been studying Python independently with Zed Shaw's *Learn Python the Hard Way* (really good book for learning the basics btw) I have some knowledge on different data types and how they behave, that they have their own in-built methods, etc. so sitting in the lecture room without having to take notes felt **__good__** :sunglasses: 
+
+- The excercises requred some *programmatical* thinking when it comes to creating new variables and assigning indeces which allows your brain to learn and think in a certain way. This is becouse there is a logic behind programming, but at the beginning it does not always feel like so...
+
+:-1 **What I disliked this week:** 
+
+- Can't really say much here as I already noted above, the topics discussed this week were fairly easy. And I hope in the future I can keep saying the same (knocks on wood :facepunch:). 
+
+:open_mouth: **What I would change/ alter: **
+
+- What I noticed by overhearing others discussing as the class ended, was that the speed was pretty fast and some weren't able to keep up. I can identify to this becaouse the main reason why I have skipped few programming courses before has been becouse the speed in the class has been way too fast and moving on to way too difficult tasks too soon. I understand in the class the speed has to be pretty considerable i ´n order to go through all the topics but playing with the basic concepts is essential in order to learn the *logic* of coding in general...
+  * I think linking some exercises from Shaw's Learn Python the Hard Way might allow some students to grasp a better understanding of the topics discussed in the class.
+    - Becouse in the excersices you have study drills where you pretty much have to break, modify and 'trash' the code, you learn better how the code behaves if you tweak it there and how it reacts when you comment out another line here or there. At least for me taking time to actually play with the code has helped alot! In general internalizing that you cannot break the code but you can always access the original script might also take the 'fear' of the code away... 
 
 
 This is some text.
