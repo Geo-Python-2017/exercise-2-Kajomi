@@ -66,6 +66,7 @@ What parts of the code were most difficult to create? What things were you able 
     - What did you like?
     - What did you dislike?
     - What would you change?
+    
 4. Lastly, just for fun, add an image of an animal that you like along with a short caption giving its name and anything special you might like to add.
 You can add an image by linking to a website, or by uploading an image to your GitHub repository and linking to that.
 Since we've spoken briefly about software licencing, we suggest that you search for images in a repository that includes licencing information such as [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) or [Pixabay](https://pixabay.com/).
@@ -104,11 +105,11 @@ The following are the corrections needed to make the provided code to run prober
    
  **3. Other comments with respect to creating one's own script:**
  
-    * The excercise felt in general okay and did not cause any major difficulties, but usually when starting from square one on your own, it can feel quite intimidating. What I often do is to write down what variables I need, in what order I should introduce them and what 'methods' (not as in append., .reverse(), etc. but what kind of structure the code should take - lists, creating functions, if-loops...) I need to implement in order to get the final, correct output. Writing stuff down seems to arrange the question at hand in my head and then I can move on to my computer and start playing with the actual code.
+      * The excercise felt in general okay and did not cause any major difficulties, but usually when starting from square one on your own, it can feel quite intimidating. What I often do is to write down what variables I need, in what order I should introduce them and what 'methods' (not as in append., .reverse(), etc. but what kind of structure the code should take - lists, creating functions, if-loops...) I need to implement in order to get the final, correct output. Writing stuff down seems to arrange the question at hand in my head and then I can move on to my computer and start playing with the actual code.
 
-    * I also try not to think that certain 'methods' should always be used on their own, but I think form a learning/ understaning perspective, it is important to make your brain understand that different methods can and should be used mixed together. When I started, it was difficult to mix i.e. if -loops with for- statements as I learned them separately (if that makes any sense). So I find it to be important to make that super clear from the very beginning, but at the same time I find I start loosing motivation when the taks and excercises get way too complicated way too fast - so finding the middle ground is important... 
+      * I also try not to think that certain 'methods' should always be used on their own, but I think form a learning/ understaning perspective, it is important to make your brain understand that different methods can and should be used mixed together. When I started, it was difficult to mix i.e. if -loops with for- statements as I learned them separately (if that makes any sense). So I find it to be important to make that super clear from the very beginning, but at the same time I find I start loosing motivation when the taks and excercises get way too complicated way too fast - so finding the middle ground is important... 
 
-    * These comment may not relate to the original question, but just wanted to point these issues out if there are any students in the course who have as complicated way of thinking as I have :smiley: 
+      * These comment may not relate to the original question, but just wanted to point these issues out if there are any students in the course who have as complicated way of thinking as I have :smiley: 
     
  ## Problem 3 - Comments and thoughts on this weeks lecture and excersice
  
