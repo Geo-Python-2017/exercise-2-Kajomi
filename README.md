@@ -134,7 +134,7 @@ The following are the corrections needed to make the provided code to run prober
 ![Text shown if image does not load](https://github.com/Kajomi/Python-for-GeoPeople---course/blob/master/orcas.jpg)<br/>
 *Figure 1:Having lived both in Seattle and B.C. and still not seeing any orcas pisses me off. Regardless, beautiful animals!*
 
-Having lived both in Seattle and B.C. and still not seeing any orcas pisses me off. Regardless, beautiful animals!
+
 
 This is some text.
 You can use *italics* or **bold** text easily.
