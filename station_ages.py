@@ -39,8 +39,11 @@ selectedStation = stationNames[1]
 # Find location of selected station
 stationIndex = stationNames.index(selectedStation)
 
+# Fetch stations start year
+selectedYear = stationStartYears[1]
+
 # Calculate operational years
-stationYears = 2017 - stationStartYears[selectedStation]
+stationYears = 2017 - selectedYear
 
 # Print station name and number of years of operation on screen
 print("The Helsinki", selectedStation, "station has been operational for", \
