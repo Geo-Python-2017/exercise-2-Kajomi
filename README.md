@@ -122,7 +122,7 @@ The following are the corrections needed to make the provided code to run prober
 
 - Can't really say much here as I already noted above, the topics discussed this week were fairly easy. And I hope in the future I can keep saying the same (knocks on wood :facepunch:). 
 
-:open_mouth: **What I would change/ alter: **
+:open_mouth: **What I would change/ alter:**
 
 - What I noticed by overhearing others discussing as the class ended, was that the speed was pretty fast and some weren't able to keep up. I can identify to this becaouse the main reason why I have skipped few programming courses before has been becouse the speed in the class has been way too fast and moving on to way too difficult tasks too soon. I understand in the class the speed has to be pretty considerable in order to go through all the topics but playing with the basic concepts is essential in order to learn the *logic* of coding in general...
 
