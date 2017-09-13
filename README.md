@@ -112,21 +112,23 @@ The following are the corrections needed to make the provided code to run prober
     
  ## Problem 3 - Comments and thoughts on this weeks lecture and excersice
  
-:+1 **What I liked about this weeks topics:**
+:+1: **What I liked about this weeks topics:**
 
 - As I have been studying Python independently with Zed Shaw's *Learn Python the Hard Way* (really good book for learning the basics btw) I have some knowledge on different data types and how they behave, that they have their own in-built methods, etc. so sitting in the lecture room without having to take notes felt **__good__** :sunglasses: 
 
 - The excercises requred some *programmatical* thinking when it comes to creating new variables and assigning indeces which allows your brain to learn and think in a certain way. This is becouse there is a logic behind programming, but at the beginning it does not always feel like so...
 
-:-1 **What I disliked this week:** 
+:-1: **What I disliked this week:** 
 
 - Can't really say much here as I already noted above, the topics discussed this week were fairly easy. And I hope in the future I can keep saying the same (knocks on wood :facepunch:). 
 
 :open_mouth: **What I would change/ alter: **
 
-- What I noticed by overhearing others discussing as the class ended, was that the speed was pretty fast and some weren't able to keep up. I can identify to this becaouse the main reason why I have skipped few programming courses before has been becouse the speed in the class has been way too fast and moving on to way too difficult tasks too soon. I understand in the class the speed has to be pretty considerable i ´n order to go through all the topics but playing with the basic concepts is essential in order to learn the *logic* of coding in general...
+- What I noticed by overhearing others discussing as the class ended, was that the speed was pretty fast and some weren't able to keep up. I can identify to this becaouse the main reason why I have skipped few programming courses before has been becouse the speed in the class has been way too fast and moving on to way too difficult tasks too soon. I understand in the class the speed has to be pretty considerable in order to go through all the topics but playing with the basic concepts is essential in order to learn the *logic* of coding in general...
+
   * I think linking some exercises from Shaw's Learn Python the Hard Way might allow some students to grasp a better understanding of the topics discussed in the class.
-    - Becouse in the excersices you have study drills where you pretty much have to break, modify and 'trash' the code, you learn better how the code behaves if you tweak it there and how it reacts when you comment out another line here or there. At least for me taking time to actually play with the code has helped alot! In general internalizing that you cannot break the code but you can always access the original script might also take the 'fear' of the code away... 
+  
+    * Becouse in the excersices you have study drills where you pretty much have to break, modify and 'trash' the code, you learn better how the code behaves if you tweak it there and how it reacts when you comment out another line here or there. At least for me taking time to actually play with the code has helped alot! In general internalizing that you cannot break the code but you can always access the original script might also take the 'fear' of the code away... 
 
 
 This is some text.
