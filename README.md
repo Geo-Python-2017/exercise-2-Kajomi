@@ -97,6 +97,15 @@ You can add it under the Problem 3 heading in the answers.
 
 # Answers
 ## Problem 1
+
+#### Excercise 1 - Finding errors in the script
+
+The following are the corrections needed to make the provided code to run proberly:
+
+1. SyntaxError - in the print statement. "years. was changed to "years." 
+2. ValueError - ´selectedStation´ = 1 is invalid staement, and was changed to ´selectedStation´ = ´stationName[index]´
+3. TypeError - the ´selectedYear´ was given a wrong type of input, which is why I added a new variable ´selectedYear´ to fetch an index with and assigned that as an input to perform the calculation with. 
+
 This is some text.
 You can use *italics* or **bold** text easily.
 You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
