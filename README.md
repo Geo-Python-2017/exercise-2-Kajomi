@@ -140,3 +140,17 @@ This is some text.
 You can use *italics* or **bold** text easily.
 You may want to read a bit more about [formatting text in Github-flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
 You can see an example of how to display an image with a caption below.
+
+
+# Grading (by SM 28.9.)
+
+## Problem 1 (7/7 points)
+
+## Problem 2 (9/9 points)
+
+## Problem 3 (4/4 points)
+- Nice emojis :)
+
+All in all extremely good work!
+
+**TOTAL 20/20**
